@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/*.npz
+*.mp4
+audio/*.wav
+presentation/*Narrated*.pptx
+~$*
